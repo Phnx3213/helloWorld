@@ -4,3 +4,4 @@ https://chatgpt.com/
 
 https://chromewebstore.google.com/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj?pli=1
 https://codepen.io/calebnance/full/nXPaKN
+https://microsoftedge.microsoft.com/addons/detail/always-active-window-al/mpappcpgjachepaibhgpbnhhmneojmkc
